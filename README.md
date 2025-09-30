@@ -12,6 +12,7 @@
 - [Download for Windows 64-bit](https://github.com/apkcombo/apkcombo-vpn/raw/master/apkcombovpn-0.1.1.msi)
 - [Download for Windows 32-bit](https://github.com/apkcombo/apkcombo-vpn/raw/master/apkcombovpn-x86-0.1.1.msi)
 - [Download from Google Drive](https://drive.google.com/drive/folders/1FUdAjrhpCF6jdzfridQpCR5vXWegiEdO)
+- [Download .conf file for WireGuard](https://warp.apkcombo.com/warpplus.conf)
 ## Quick Start
 
 **Step 1:** Open **APKCombo VPN**.
